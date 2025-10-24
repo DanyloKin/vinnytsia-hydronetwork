@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "pollution_p",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "source": "Врізка", "date_reported": "2025-08-01", "description": "Забетонована пластикова чорна труба діаметром 30 см з лівого берега" }, "geometry": { "type": "Point", "coordinates": [ 28.501900665111759, 49.229602014287337 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "source": "Невідомо", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.433611623617725, 49.217443149850155 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "source": "Невідомо", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.433119773539861, 49.218355710473134 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "source": "Невідомо", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.433119773539861, 49.218355710473134 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "source": "Невідомо", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.433175764653004, 49.218062256291205 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "source": "Невідомо", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.433611623617725, 49.217443149850155 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "source": "Невідомо", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.433175764653004, 49.218062256291205 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "source": "Врізка", "date_reported": "2025-08-01", "description": "Місце зливу з території підприємства" }, "geometry": { "type": "Point", "coordinates": [ 28.489034443748395, 49.231046812354862 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "source": "Врізка", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.532111317732614, 49.252517842841769 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "source": "Врізка", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.409229002577082, 49.217591630986412 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "source": "Врізка", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.431007533941116, 49.212885569479418 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "source": "Врізка", "date_reported": "2025-08-01", "description": "Викопана траншея 30 см з приватної території, має стік у річку. На момент обстеження неприємного запаху не відчувалося, в нові стояча вона яка не стікала у річку (швидше за все під час рясних опадів)" }, "geometry": { "type": "Point", "coordinates": [ 28.494950726280628, 49.228882774161299 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "source": "Врізка", "date_reported": "2025-08-01", "description": "Викопана траншея з приватної території, яка слугує ливневкою. На момент обстеження без води та неприємного запаху" }, "geometry": { "type": "Point", "coordinates": [ 28.495090871701603, 49.22884577187461 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "source": "Врізка", "date_reported": "2025-08-01", "description": "Або гілка річки в колекторі з врізкою відкритого типу, періодично течія мутного відтінку в цьому бетонному відкритому лотку посилюється і зливається в русло, схоже на відвід каналізації з приватних будинків" }, "geometry": { "type": "Point", "coordinates": [ 28.4989807453228, 49.20853806532719 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "source": "Врізка", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.385327507143614, 49.215476400772495 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "source": "Врізка", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.385327507143614, 49.215476400772495 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "source": "Врізка", "date_reported": "2025-08-01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.431975476120012, 49.230400938768533 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "source": "Невідомо", "date_reported": "2025-08-01", "description": "Забруднена, присутнє сміття" }, "geometry": { "type": "Point", "coordinates": [ 28.425378918328381, 49.262499171251825 ] } }
+]
+}
