@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "bridges_l",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Переливна труба", "length_m": 8.36, "width_m": null, "diameter": 0.7, "material_type": "Не встановлено", "description": null }, "geometry": { "type": "LineString", "coordinates": [ [ 28.390811958892691, 49.227346888856466 ], [ 28.390776256617276, 49.227275452397599 ] ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "Переливна труба", "length_m": 5.3, "width_m": null, "diameter": 0.7, "material_type": "Не встановлено", "description": null }, "geometry": { "type": "LineString", "coordinates": [ [ 28.389735713293064, 49.225407284621483 ], [ 28.389715596725456, 49.225361521174172 ], [ 28.389715596725456, 49.225361521174172 ] ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Труба", "length_m": 4.72, "width_m": null, "diameter": null, "material_type": "Не встановлено", "description": "Є можливість переходу через річку по трубах та металевій рейці" }, "geometry": { "type": "LineString", "coordinates": [ [ 28.50218933785688, 49.229658064219649 ], [ 28.50219570810328, 49.229615807831237 ], [ 28.50219570810328, 49.229615807831237 ] ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Міст", "length_m": 3.47, "width_m": null, "diameter": null, "material_type": "Дерев'яний", "description": null }, "geometry": { "type": "LineString", "coordinates": [ [ 28.507908757502392, 49.207624046149441 ], [ 28.507872100902414, 49.20764400321633 ] ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "Переливна труба", "length_m": 9.38, "width_m": null, "diameter": null, "material_type": "Не встановлено", "description": null }, "geometry": { "type": "LineString", "coordinates": [ [ 28.500272607748649, 49.196842100882982 ], [ 28.500160551285244, 49.196883560065558 ] ] } }
+]
+}

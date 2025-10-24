@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "invasive_species_p",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Інвазійні види рослинності", "description": "Клен ясенелистий", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.354326866271155, 49.202437904747974 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "Інвазійні види рослинності", "description": "Виноград пятилисточковий уздовж берега, небагато", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.42848828841834, 49.213655445446889 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Інвазійні види рослинності", "description": "Під мостом, на бетонних плитах біля води. \nРозрив-трава", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.429551764998841, 49.213084000517028 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Інвазійні види рослинності", "description": "Клен ясенелистий", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.429428806979203, 49.233512200799879 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "Інвазійні види рослинності", "description": "Клен ясенелистий, виноград пятилисточковий", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.431090915970106, 49.231275109609832 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "Інвазійні види рослинності", "description": "Дівочий виноград", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.390672474791248, 49.227052550933045 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "Інвазійні види рослинності", "description": "Клен ясенелистий", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.557956604102372, 49.235462501238892 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "name": "Інвазійні види рослинності", "description": "Борщівник Сосновського", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.5716427681471, 49.242235738960062 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "name": "Інвазійні види рослинності", "description": "Клен ясенелистий", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.498752422280504, 49.208648022534909 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "name": "Інвазійні види рослинності", "description": "Розрив-трава", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.432584002289424, 49.21985580351258 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "name": "Інвазійні види рослинності", "description": "Ясен пенсильванський . Доросле дерево до 15 метрів заввишки. Має ознаки захворювання (лишай)", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.386164016715153, 49.228880584688355 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "name": "Інвазійні види рослинності", "description": "Верба посеред річки, поруч інвазивні види (виноград пятилисточковий), клен ясенелистий", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.431571143525744, 49.231009249269903 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "name": "Інвазійні види рослинності", "description": "Перешкода - повалені дерева, будівельне сміття, гілля.  Є інвазійні рослини: розрив-трава", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.430565305139158, 49.212781977964099 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "name": "Інвазійні види рослинності", "description": "Борщівник Сосновського", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.505373790508639, 49.230221406297019 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "name": "Інвазійні види рослинності", "description": "Борщівник Сосновського", "observed_date": "2025-08-01" }, "geometry": { "type": "Point", "coordinates": [ 28.420659571568201, 49.258034806245711 ] } }
+]
+}

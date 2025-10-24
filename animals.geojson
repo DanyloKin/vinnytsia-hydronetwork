@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "animals",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "name": "Гніздо ластівок", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.408686861080145, 49.217492862612303 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "name": "Білочка", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.56106261600808, 49.245959039295272 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "name": "Риби і жаби", "description": "Є доступ до річки. У воді присутня живність(риби, жаби), стояча течія. Узбережжя засмічене" }, "geometry": { "type": "Point", "coordinates": [ 28.543852407514578, 49.240735419060648 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "name": "Жаба", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.390948407043581, 49.227612857364164 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "name": "Дикі качки", "description": null }, "geometry": { "type": "Point", "coordinates": [ 28.48899413126804, 49.219586101768598 ] } }
+]
+}
